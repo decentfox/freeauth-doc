@@ -8,4 +8,4 @@ export default defineNuxtConfig({
     // https://github.com/nuxt/devtools
     '@nuxt/devtools'
   ]
-})
+});
