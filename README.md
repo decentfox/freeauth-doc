@@ -1,24 +1,20 @@
-# Docus Starter
+<img align="center" src="public/logo.png"/><br/>
 
-Starter template for [Docus](https://docus.dev).
+# Documentation of [FreeAuth](https://github.com/decentfox/freeauth-api)
 
-## Clone
-
-Clone the repository (using `nuxi`):
-
-```bash
-npx nuxi init -t themes/docus
-```
+We are using [Docus](https://docus.dev) to write our documentation.
 
 ## Setup
 
-Install dependencies:
+Clone the repository and install dependencies:
 
 ```bash
 yarn install
 ```
 
 ## Development
+
+Start the development server on [http://localhost:3000](http://localhost:3000)
 
 ```bash
 yarn dev

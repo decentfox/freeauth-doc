@@ -28,6 +28,7 @@ module.exports = {
     'vue/max-attributes-per-line': [0],
     'vue/html-closing-bracket-newline': [0],
     'vue/html-indent': [0],
+    'vue/multi-word-component-names': 0,
     // Prettier rules
     'max-len': [0, 120],
     code: [0, 120],
