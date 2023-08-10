@@ -5,7 +5,7 @@
   "scripts": {
     "postinstall": "husky install",
     "dev": "nuxi dev",
-    "build": "nuxi build",
+    "build": "nuxi build --output public",
     "generate": "nuxi generate",
     "preview": "nuxi preview",
     "lint": "eslint ."
