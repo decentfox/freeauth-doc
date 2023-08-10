@@ -4,7 +4,12 @@ export default defineAppConfig({
     description: 'Ready-to-use and customizable RBAC.',
     image: '/cover.png', // TODO: replace cover image
     socials: {
-      github: 'decentfox/freeauth-api'
+      github: 'decentfox/freeauth-api',
+      'freeauth-zh': {
+        label: '简体中文',
+        icon: 'icon-park-outline:chinese',
+        href: 'https://zh.freeauth.decentfox.com'
+      }
     },
     github: {
       dir: 'content',
