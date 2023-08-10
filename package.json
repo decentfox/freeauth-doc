@@ -1,5 +1,5 @@
 {
-  "name": "docus-starter",
+  "name": "freeauth-docs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.13.1",
+    "@nuxt-themes/docus": "^1.14.6",
     "@nuxt/devtools": "^0.6.7",
     "@nuxt/eslint-config": "^0.1.1",
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
