@@ -1,8 +1,8 @@
 export default defineAppConfig({
   docus: {
     title: 'FreeAuth',
-    description: 'Ready-to-use and customizable RBAC.',
-    image: '/cover.png', // TODO: replace cover image
+    description: 'Python Authentication and RBAC Solution',
+    image: '/cover.png',
     socials: {
       github: 'decentfox/freeauth-api',
       'freeauth-zh': {
@@ -32,6 +32,16 @@ export default defineAppConfig({
       showLinkIcon: true,
       exclude: [],
       fluid: true
+    },
+    footer: {
+      credits: {
+        icon: 'IconDocus',
+        text: 'Powered by DecentFoX',
+        href: 'https://decentfox.com'
+      },
+      textLinks: [],
+      iconLinks: [],
+      fluid: false
     }
   }
 });
