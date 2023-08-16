@@ -5,7 +5,7 @@ export default defineAppConfig({
     image: '/cover.png',
     socials: {
       github: 'decentfox/freeauth-api',
-      'freeauth-zh': {
+      freeauth: {
         label: '简体中文',
         icon: 'icon-park-outline:chinese',
         href: 'https://zh.freeauth.decentfox.com'
